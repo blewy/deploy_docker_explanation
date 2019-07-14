@@ -1,0 +1,13 @@
+# install.packages("magrittr")
+# install.packages("plumber")
+# install.packages("caret")
+# install.packages("mlr")
+# install.packages("xgboost")
+# install.packages("breakDown")
+if (!require("breakDown")) install.packages("breakDown")
+if (!require("breakDown")) install.packages("breakDown")
+if (!require("magrittr")) install.packages("magrittr")
+if (!require("plumber")) install.packages("plumber")
+if (!require("mlr")) install.packages("mlr")
+if (!require("xgboost")) install.packages("xgboost")
+
